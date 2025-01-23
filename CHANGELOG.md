@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [1.0.1](#101)
   - [1.0.0](#100)
 
 ## Semantic Versioning
@@ -12,9 +13,17 @@ This modlist uses a modified semantic versioning to identify which competition i
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
 
+## 1.0.1
+
+**Released:** `23 Jan 2025`
+
+### Info <!-- omit in toc -->
+
+No change rebuild.
+
 ## 1.0.0
 
-**Released:** `DD MMM 2025`
+**Released:** `23 Jan 2025`
 
 ### Info <!-- omit in toc -->
 
