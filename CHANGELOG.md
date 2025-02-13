@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [1.1.1](#111)
   - [1.1.0](#110)
   - [1.0.1](#101)
   - [1.0.0](#100)
@@ -13,6 +14,14 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 1.1.1
+
+**Released:** `13 Feb 2025`
+
+### Info <!-- omit in toc -->
+
+No change rebuild to fix CreationKitPrefs.ini issue.
 
 ## 1.1.0
 
