@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [1.3.0](#130)
   - [1.1.1](#111)
   - [1.1.0](#110)
   - [1.0.1](#101)
@@ -14,6 +15,16 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 1.3.0
+
+**Released:** `22 Feb 2025`
+
+### Info <!-- omit in toc -->
+
+Release build for the Plot-A-Palooza 3 contest.
+
+Updated the SS2 plot scripts to [github 821a2f8623bcf9b375e10b8cfd847aa3cef20aea](https://github.com/kinggath/SS2XeditScripts/commit/821a2f8623bcf9b375e10b8cfd847aa3cef20aea).
 
 ## 1.1.1
 
