@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [1.3.3](#133)
   - [1.3.0](#130)
   - [1.1.1](#111)
   - [1.1.0](#110)
@@ -15,6 +16,22 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 1.3.3
+
+**Released:** `6 Aug 2025`
+
+### Info <!-- omit in toc -->
+
+This is a maintenance release.
+
+Included in this release is:
+- Workshop Framework 2.4.7a
+- Sim Settlements 2 3.4.7
+- Sim Settlements 2, Chapter 2 3.4.7
+- Sim Settlements 2, Chapter 3 3.4.7
+- Sim Settlements 2, Extended 3.4.7
+- Buffout4 NG 1.37
 
 ## 1.3.0
 
