@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [1.3.4](#134)
   - [1.3.3](#133)
   - [1.3.0](#130)
   - [1.1.1](#111)
@@ -16,6 +17,14 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 1.3.4
+
+**Released:** `23 Aug 2025`
+
+### Info <!-- omit in toc -->
+
+This is for the Plot-A-Palooza 4 contest.
 
 ## 1.3.3
 
