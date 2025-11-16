@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [1.3.7](#137)
   - [1.3.6](#136)
   - [1.3.5](#135)
   - [1.3.4.1](#1341)
@@ -20,6 +21,16 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 1.3.7
+
+**Released:** `16 Nov 2025`
+
+### Info <!-- omit in toc -->
+
+This is simply a no change rebuild of 1.3.6 against the new Fallout 4 Anniversary Edition and Creation Kit, so that the list remains installable and usable with the current version of Fallout 4. This time I remembered to downgrade the BA2 headers.
+
+**You MUST have the 1.11.137 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
 
 ## 1.3.6
 
