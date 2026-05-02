@@ -26,7 +26,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 
 ## 1.3.9
 
-**Released:** `DD MMM 2026`
+**Released:** `2 May 2026`
 
 ### Info <!-- omit in toc -->
 
