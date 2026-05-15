@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [1.4.0-cc](#140-cc)
   - [1.4.0](#140)
   - [1.3.9](#139)
   - [1.3.8](#138)
@@ -24,6 +25,32 @@ This modlist uses a modified semantic versioning to identify which competition i
 1. SEASON version when the contest season changes. **Contest rules will change.**
 2. CONTEST version when the contest changes. **Contest rules may change between contests.**
 3. PATCH version when hotfixes and/or updates are released mid-contest.
+
+## 1.4.0-cc
+
+**Released:** `16 May 2026`
+
+### Info <!-- omit in toc -->
+
+- Creation Club Specific Rebuild for the unofficial WAB Discord Plot-a-palooza contest.
+- This is a manual install only release for those that will be using Creation Club Content in the contest.
+
+**You MUST have the 1.11.191 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
+
+This requires all of the following Creation Club content.
+- Halloween workshop pack
+- Enclave Remnants
+- Neon flats
+- Holiday workshop pack
+- Noir Penthouse
+- Charleston Condo
+- Nuka Cola Collector
+- Slocum's
+- Arcade workshop
+- Home Decor Workshop pack
+- Modern furniture pack
+- Shroud Manor
+- Settlement Ambush Kit
 
 ## 1.4.0
 
