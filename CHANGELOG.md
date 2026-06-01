@@ -34,6 +34,7 @@ This modlist uses a modified semantic versioning to identify which competition i
 ### Info <!-- omit in toc -->
 
 - Updated Fallout 4 data to 1.11.221 release.
+- Disabled libssl-3-x64.dll to fix Nexus invalid cert errors.
 
 
 **You MUST have the 1.11.221 Fallout 4 Anniversary Edition release installed via Steam. This release will duplicate it, and automagically downgrade it to the last known working 1.10.163 Fallout 4 release, while keeping all the updated Fallout 4 Next Gen content, and support for mods made with the updated Creation Kit.**
